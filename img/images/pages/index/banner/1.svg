@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 432 542">
+  <path fill="url(#a)" d="M61.1 542H0V430h61.1v112Z"/>
+  <path fill="url(#b)" d="M185.46 542h-61.1V151h61.1v391Z"/>
+  <path fill="url(#c)" d="M247.64 542h-62.18V81h62.18v461Z"/>
+  <path fill="url(#d)" d="M308.73 542h-61.1V44h61.1v498Z"/>
+  <path fill="url(#e)" d="M370.9 542h-62.17V0h62.18v542Z"/>
+  <path fill="url(#f)" d="M432 542h-61.1V111H432v431Z"/>
+  <path fill="#BB2649" d="M124.36 542H61.1V280h63.27v262Z"/>
+  <defs>
+    <linearGradient id="a" x1="30.55" x2="30.55" y1="542" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BB2649"/>
+      <stop offset=".7" stop-color="#F7D000"/>
+      <stop offset="1" stop-color="#FFFF72"/>
+    </linearGradient>
+    <linearGradient id="b" x1="154.91" x2="154.91" y1="542" y2="151" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BB2649"/>
+      <stop offset=".7" stop-color="#F7D000"/>
+      <stop offset="1" stop-color="#FFFF72"/>
+    </linearGradient>
+    <linearGradient id="c" x1="216.54" x2="216.54" y1="542" y2="81" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BB2649"/>
+      <stop offset=".7" stop-color="#F7D000"/>
+      <stop offset="1" stop-color="#FFFF72"/>
+    </linearGradient>
+    <linearGradient id="d" x1="278.18" x2="278.18" y1="542" y2="44" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BB2649"/>
+      <stop offset=".7" stop-color="#F7D000"/>
+      <stop offset="1" stop-color="#FFFF72"/>
+    </linearGradient>
+    <linearGradient id="e" x1="339.82" x2="339.82" y1="542" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BB2649"/>
+      <stop offset=".67" stop-color="#F7D000"/>
+      <stop offset="1" stop-color="#FFFF72"/>
+    </linearGradient>
+    <linearGradient id="f" x1="401.45" x2="401.45" y1="542" y2="111" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BB2649"/>
+      <stop offset=".7" stop-color="#F7D000"/>
+      <stop offset="1" stop-color="#FFFF72"/>
+    </linearGradient>
+  </defs>
+</svg>
